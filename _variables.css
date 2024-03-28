@@ -1,0 +1,28 @@
+/* Use this file to store your useful variables */
+/* This could be colors, fonts, or padding sizes! */
+
+:root {
+  --color-primary: #8ECAE6;
+  --color-secondary: #ffffff;
+  --color-db:#023047;
+  --color-light:#FFB703;
+  --color-dark:#FB8500;
+  --color-before:#33586b50;
+  --color-bb: #219EBC;
+  --font-size-default: 16px;
+  --padding-default: 10px;
+  --border-radius-default: 15px;
+  --font-family: 'Inter', sans-serif;
+}
+
+.inter-uniquifier> {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+          "slnt" 0;
+  }
+
+
+
