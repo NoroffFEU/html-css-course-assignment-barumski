@@ -99,17 +99,23 @@
     margin-bottom: -50px;
 }
 
-.brand,
+.product-brand,
 .product-jacket,
 .product-before-price,
 .product-price{
     display: flex;
     align-items: left;
     font-family: 'Inter', sans-serif;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.brand {
+.product-brand,
+.product-jacket,
+.product-price {
+    color: #023047;
+}
+
+.product-brand {
     font-size: 45px;
     font-weight: bold;
     margin-right: 345px;
@@ -117,22 +123,21 @@
 
 .product-jacket {
     margin-bottom: 0;
-}
-
-.product-jacket
-.product-before-price {
-    font-size: 40px;
-    font-weight: 400;
+    font-size: 30px;
+    font-weight: 500;
 }
 
 .product-before-price {
+    font-size: 30px;
+    font-weight: 500;
+    color: #33586b50;
     margin-top: 10px;
 }
 
 .product-price {
-    font-size: 55px;
+    font-size: 50px;
     font-weight: bold;
-    margin-top: 0;
+    margin-top: 60px;
 }
 
 .add-button {

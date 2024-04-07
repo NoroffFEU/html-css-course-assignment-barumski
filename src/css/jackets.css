@@ -69,6 +69,13 @@
     margin-bottom: 5px;
 }
 
+.price-2 {
+    font-size: 28px;
+    color: #023047;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
 @media screen and (max-width: 600px) {
 
     .trending-jackets-container {
