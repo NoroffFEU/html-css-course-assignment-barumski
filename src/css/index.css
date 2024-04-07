@@ -18,7 +18,7 @@
     width: 100vw;
     height: auto;
     display: flex;
-    filter: contrast(80%);
+    filter: contrast(50%);
 }
 
 .overlay-text {
